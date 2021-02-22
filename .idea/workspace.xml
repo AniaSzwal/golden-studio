@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec5370a1-7ab9-4690-8b07-8ea6dd8cec19" name="Default Changelist" comment="" />
+    <list default="true" id="ec5370a1-7ab9-4690-8b07-8ea6dd8cec19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,10 +29,31 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anias\WebstormProjects\Golden-studio\css" />
+      <recent name="C:\Users\anias\WebstormProjects\Golden-studio\vendor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.watch">
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Golden-studio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.watch" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,7 +67,12 @@
       <workItem from="1613271232714" duration="1365000" />
       <workItem from="1613348727823" duration="5751000" />
       <workItem from="1613365868462" duration="1404000" />
-      <workItem from="1613410637664" duration="319000" />
+      <workItem from="1613410637664" duration="1557000" />
+      <workItem from="1613502317552" duration="1982000" />
+      <workItem from="1613507975769" duration="872000" />
+      <workItem from="1613833519730" duration="594000" />
+      <workItem from="1613870494405" duration="18203000" />
+      <workItem from="1613926374743" duration="1854000" />
     </task>
     <servers />
   </component>
@@ -47,6 +80,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="339" y="59" key="#Inspections" timestamp="1613876398270">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="339" y="59" key="#Inspections/0.0.1422.760@0.0.1422.760" timestamp="1613876398270" />
     <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613353521264">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
@@ -55,5 +92,21 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="485" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1422.760@0.0.1422.760" timestamp="1613353725688" />
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613504581109">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613504581109" />
+    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613504581108">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613504581108" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613504581108">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613504581108" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613504581109">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613504581109" />
   </component>
 </project>
